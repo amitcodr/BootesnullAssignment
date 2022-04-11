@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BootesnullAssignment</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home</string>
+    <string name="second_fragment_label">News Detail</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_internet_desc">Something is wrong with your internet. Please check and try again.</string>
+
+    <string name="no_content">No News Found</string>
+    <string name="no_content_desc">There are currently no news available. Please come back later.</string>
+
+
+    <string name="no_server">Server Error</string>
+    <string name="no_server_desc">Something went wrong while accessing the server. Please retry or come back later.</string>
+</resources>
